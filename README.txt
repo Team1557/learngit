@@ -11,3 +11,7 @@ hi'
 Kevin{
   this is a new line
 }
+
+Chantz {
+System.out.println("Hello");
+}
