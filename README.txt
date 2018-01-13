@@ -15,6 +15,7 @@ Kevin{
 
 Chantz {
 System.out.println("Hello");
+System.out.println("Something to say");
 }
 
  
