@@ -13,6 +13,7 @@ Kevin{
    adding some new lines
    add yet another line
    test branch
+   from Kevin's Branch
 }
 
 Chantz {
@@ -22,7 +23,6 @@ System.out.println("Something to say");
 
  
 
-}
 
 
 Anthony{
