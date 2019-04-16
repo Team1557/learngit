@@ -5,6 +5,10 @@ kevin Brunner
 James Goff
 Lucas Brunner
 
+void LucasB(){
+	this is Lucas' method
+}
+
 void JimL(){
 	this is Jim's method
 }
