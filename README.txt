@@ -1,5 +1,6 @@
 this is git
 
-kevin
+
+kevin Brunner
 James Goff
-Lucas
+Lucas Brunner
