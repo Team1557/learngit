@@ -6,7 +6,7 @@ James Goff
 Lucas Brunner
 
 void LucasB(){
-	this is Lucas' method that is broken
+	this is Lucas' method; //Fixed, added SemiColon
 }
 
 void JimL(){
