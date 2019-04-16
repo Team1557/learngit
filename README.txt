@@ -14,5 +14,5 @@ void Team1557(){
 }
 
 void 12VoltBolt(){
-	this 12VoltBolt method
+	This method is the best one because it's mine.
 }
