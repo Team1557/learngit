@@ -1,5 +1,5 @@
 this is git
 
-kevin
+kevin Brunner
 James
 Lucas Brunner
