@@ -2,4 +2,4 @@ this is git
 
 kevin
 James
-Lucas
+Lucas Brunner
