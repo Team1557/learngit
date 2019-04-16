@@ -1,26 +1,31 @@
-kevin entered this and then added this a second commit
+this is git
 
 
-Doctor Who is cool!!
-
-Anthony{
-hi'
-}
+OR IS IT??
 
 
+kevin Brunner
+James Goff
+Lucas Brunner
+
+<<<<<<< HEAD
 Kevin{
   this is a new line
    adding some new lines
    add yet another line
    test branch
    from Kevin's Branch
+=======
+void LucasB(){
+	this is Lucas' method that is broken OR IS IT??
+>>>>>>> JamesNewandImprovedBranch
 }
 
-Chantz {
-System.out.println("Hello");
-System.out.println("Something to say");
+void JimL(){
+	this does nothing // Kevin OR IS HE???
 }
 
+<<<<<<< HEAD
  
 
 
@@ -30,5 +35,12 @@ Anthony{
 	It's a party in the USA
 	WHY!!!
 	Omnitrix
+=======
+void Team1557(){
+	Team 1557 method
 }
-  
+
+void 12VoltBolt(){
+	This method is not the best one because it's mine. OR IS IT???
+>>>>>>> JamesNewandImprovedBranch
+}
