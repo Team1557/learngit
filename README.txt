@@ -6,7 +6,7 @@ James Goff
 Lucas Brunner
 
 void LucasB(){
-	this is Lucas' method
+	this is Lucas' method that is broken
 }
 
 void JimL(){
@@ -18,5 +18,5 @@ void Team1557(){
 }
 
 void 12VoltBolt(){
-	This method is the best one because it's mine.
+	This method is not the best one because it's mine.
 }
