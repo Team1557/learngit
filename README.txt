@@ -6,7 +6,7 @@ James Goff
 Lucas Brunner
 
 void JimL(){
-	this is Jim's method
+	this does nothing // Kevin
 }
 
 void Team1557(){
