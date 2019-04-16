@@ -1,5 +1,6 @@
 this is git
 
+
 kevin Brunner
-James
+James Goff
 Lucas Brunner
